@@ -1,7 +1,7 @@
 Ниже пример **README.md** для репозитория **terraform-elastic-monitoring** в GitHub.
 Он описывает проект и инструкции запуска в Amazon Web Services с помощью Terraform.
 
----
+------
 
 # terraform-elastic-monitoring
 
