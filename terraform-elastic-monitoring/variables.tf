@@ -8,4 +8,5 @@ variable "instance_type" {
 
 variable "key_name" {
   description = "AWS SSH key"
+  default     = "ubuntu-key"
 }
